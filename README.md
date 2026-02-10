@@ -143,23 +143,19 @@ source("figures/create_publication_figures.R")
 
 ## Data Availability
 
-Raw sequencing data will be deposited in the NCBI Sequence Read Archive (SRA) upon publication.
+Raw sequence files and metadata are publicly available in the National Center for Biotechnology Information (NCBI) Sequence Read Archive (SRA), under BioProject ID: PRJNA1363208
 
 ## Citation
 
 If you use this code, please cite:
 
-[Citation information to be added upon publication]
+Hill MS, Stiffler W, Rabasco JT, Sun S, Blakley IC, Fodor AA, Gunsch CK. Temporal stability and niche partitioning of bacterial communities in paired residential sink P-traps.
 
 ## Contact
 
-For questions about this code repository, please open an issue on GitHub.
+For questions about this code repository, please open an issue on GitHub or contact Megan Hill at msthoemmes@gmail.com
 
 ## Acknowledgments
 
 - Preprocessing and DADA2 workflow: Jorden Rabasco
-- Temporal stability and differential abundance analyses: [Author names]
-
-## License
-
-[License information to be added]
+- Temporal stability analysis: Claude Code
